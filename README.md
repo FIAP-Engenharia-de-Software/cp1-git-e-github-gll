@@ -32,4 +32,4 @@ O site apresenta informações institucionais, detalhes sobre a equipe e canais 
 
 O projeto pode ser acessado através do link abaixo:
 
-link aqui
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-gll/
