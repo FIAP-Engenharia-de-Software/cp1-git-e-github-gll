@@ -11,3 +11,25 @@ O **SocialConnect** é uma plataforma digital criada com o objetivo de aproximar
 O site apresenta informações institucionais, detalhes sobre a equipe e canais de contato, simulando o ambiente online de uma empresa moderna focada em inovação e comunicação.
 
 ---
+
+## Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* Git e GitHub
+
+---
+
+## Equipe do projeto
+
+* Gustavo Noleto – RM569592
+* Lucas Gaspar – RM568616
+* Luiz Ademario – RM571182
+
+---
+
+## Acesso ao site
+
+O projeto pode ser acessado através do link abaixo:
+
+link aqui
